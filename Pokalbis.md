@@ -1,12 +1,12 @@
 
-KarolisGineitis klausia:
+EvelinaSinickaja klausia:
 - Kaip sekasi?
 
 VU-lecture-Unix-2019 atsako:
-- Batais lyja.
+- Batais lyja. Saules nera.
 
 VU-lecture-Unix-2019 klausia:
 - Kas naujesnio?
 
-KarolisGineitis atsako:
-- Iškritau pro langą.
+EvelinaSinickaja atsako:
+- Nieko nepasikeite.
