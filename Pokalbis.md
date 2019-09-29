@@ -12,9 +12,9 @@ KarolisGineitis atsako:
 - Iškritau pro langą.
 
 SauleS atsako:
-Norėčiau išmokti naują dainą.
+-Norėčiau išmokti naują dainą.
 
 SauleS klausia:
-Ar tau patinka teatras?
+-Ar tau patinka teatras?
 
 
