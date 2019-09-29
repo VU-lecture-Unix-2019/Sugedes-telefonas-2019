@@ -1,12 +1,12 @@
 
 EvelinaSinickaja klausia:
-- Kaip sekasi?
+- Labas rytas!Siandien turime paskaita unixa, ka nagrinesime per paskaita?
 
 VU-lecture-Unix-2019 atsako:
-- Batais lyja. Saules nera.
+- Labas rytas! Siandien pasimokysime bash pradmenu.
 
 VU-lecture-Unix-2019 klausia:
-- Kas naujesnio?
+- Kaip esi nusiteikusi siandienos paskaitai?
 
 EvelinaSinickaja atsako:
-- Nieko nepasikeite.
+- Esu nusiteikusi gauti nauju ziniu ir pakartoti praeitu paskaitu medziaga.
