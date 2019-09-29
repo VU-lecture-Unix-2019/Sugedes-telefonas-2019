@@ -1,9 +1,15 @@
 
+SauleS klausia:
+
+
 Evelinas24 klausia:
 - Labas rytas! Šiandien turime paskaitą unixą, ką nagrinėsime per paskaitą?
 
 VU-lecture-Unix-2019 atsako:
 - Batais lyja. Saulės nėra.
+
+SauleS atsako:
+
 
 VU-lecture-Unix-2019 klausia:
 - Kas naujesnio?
