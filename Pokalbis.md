@@ -17,6 +17,9 @@ EgleT2 klausia:
 Evelinas24 atsako:
 - Esu nusiteikusi gauti naujų žinių ir pakartoti praeitų paskaitų medžiagą.
 
+KarolisGineitis klausia:
+- Kaip sekasi?
+
 EgleT2 atsako:
 - Šiandien labai šiltas oras.
 
