@@ -18,7 +18,7 @@ PVards atsako:
 
 
 EgleT2 klausia:
-
+- Kodėl baigėsi kava?
 
 KarolisGineitis atsako:
 - Iškritau pro langą.
@@ -27,4 +27,5 @@ SimasJank klausia:
 
 
 EgleT2 atsako:
+- Šiandien labai šiltas oras.
 
