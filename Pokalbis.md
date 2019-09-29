@@ -10,3 +10,7 @@ VU-lecture-Unix-2019 klausia:
 
 KarolisGineitis atsako:
 - Iškritau pro langą.
+
+Ar tau patinka teatras?
+
+Norėčiau išmokti naują dainą.
