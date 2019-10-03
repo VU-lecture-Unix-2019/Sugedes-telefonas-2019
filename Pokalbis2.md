@@ -21,10 +21,10 @@ SauleS klausia:
 -
 
 SimasJank atsako:
--
+- Suintegruokime pora integralų.
 
 SimasJank klausia:
--
+- Kodėl šiandien taip šalta?
 
 DmntV atsako:
 -
