@@ -24,7 +24,7 @@ SimasJank atsako:
 - Reikėjo išnešti šiukšles.
 
 SimasJank klausia:
-- Kur dingo šiukšliadėžė? 
+- Kur dingo šiukšliadėžė?
 
 Evelinas24 atsako:
 - Esu nusiteikusi gauti naujų žinių ir pakartoti praeitų paskaitų medžiagą.
