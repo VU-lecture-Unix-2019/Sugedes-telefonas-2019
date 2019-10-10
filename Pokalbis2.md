@@ -12,7 +12,7 @@ Jaunius456 atsako:
 -
 
 KarolisGineitis klausia:
--
+-Ar lauke šilta ?
 
 PVards atsako:
 -
@@ -39,7 +39,7 @@ Jaunius456 klausia:
 -
 
 KarolisGineitis atsako:
--
+-Ne
 
 PVards klausia:
 -
