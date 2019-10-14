@@ -20,6 +20,12 @@ KarolisGineitis atsako:
 EgleT2 klausia:
 - Kodėl baigėsi kava?
 
+SimasJank atsako:
+- Reikėjo išnešti šiukšles.
+
+SimasJank klausia:
+- Kur dingo šiukšliadėžė?
+
 Evelinas24 atsako:
 - Esu nusiteikusi gauti naujų žinių ir pakartoti praeitų paskaitų medžiagą.
 
