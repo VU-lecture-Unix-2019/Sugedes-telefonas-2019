@@ -18,7 +18,7 @@ PVards atsako:
 -
 
 SauleS klausia:
--
+- Ar ziurejai i dangu vakar?
 
 SimasJank atsako:
 -
@@ -45,4 +45,4 @@ PVards klausia:
 -
 
 SauleS atsako:
--
+- As tai visai nieko nebesuprantu.
