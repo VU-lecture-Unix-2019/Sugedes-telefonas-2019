@@ -21,10 +21,10 @@ SauleS klausia:
 - Ar ziurejai i dangu vakar?
 
 SimasJank atsako:
--
+Taip, tai realu.
 
 SimasJank klausia:
--
+Ar galima eiti miegoti?
 
 DmntV atsako:
 -
