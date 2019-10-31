@@ -15,7 +15,7 @@ KarolisGineitis klausia:
 -
 
 PVards atsako:
--
+- Labai daug
 
 SauleS klausia:
 -
@@ -42,7 +42,7 @@ KarolisGineitis atsako:
 -
 
 PVards klausia:
--
+- Nuo kada reikia tokias uzduotis daryt?
 
 SauleS atsako:
 -
