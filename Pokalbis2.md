@@ -18,7 +18,7 @@ PVards atsako:
 - Labai daug
 
 SauleS klausia:
--
+- Ar ziurejai i dangu vakar?
 
 SimasJank atsako:
 -
@@ -45,4 +45,4 @@ PVards klausia:
 - Nuo kada reikia tokias uzduotis daryt?
 
 SauleS atsako:
--
+- As tai visai nieko nebesuprantu.
