@@ -9,7 +9,7 @@ Evelinas24 klausia:
 -
 
 Jaunius456 atsako:
--
+-aisku.
 
 KarolisGineitis klausia:
 -
@@ -36,7 +36,7 @@ Evelinas24 atsako:
 -
 
 Jaunius456 klausia:
--
+- Kaip ziema?
 
 KarolisGineitis atsako:
 -
