@@ -5,7 +5,7 @@ DmntV klausia:
 EgleT2 atsako:
 - Nes RC matavimo vienetas yra sekundė.
 
-Evelinas24 klausia:
+Evelinas24 klausia:Ar siandien bus susirinkimas?
 -
 
 Jaunius456 atsako:
@@ -32,7 +32,7 @@ DmntV atsako:
 EgleT2 klausia:
 - Kodėl niekas nespėjo pavalgyti pietų?
 
-Evelinas24 atsako:
+Evelinas24 atsako:Isvaziuoju, tad grisiu labai velai
 -
 
 Jaunius456 klausia:
