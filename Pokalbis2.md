@@ -3,7 +3,7 @@ DmntV klausia:
 -
 
 EgleT2 atsako:
--
+Nes RC matavimo vienetas yra sekundė.
 
 Evelinas24 klausia:
 -
@@ -30,7 +30,7 @@ DmntV atsako:
 -
 
 EgleT2 klausia:
--
+Kodėl niekas nespėjo pavalgyti pietų?
 
 Evelinas24 atsako:
 -
