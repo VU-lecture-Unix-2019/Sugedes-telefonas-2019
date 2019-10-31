@@ -1,6 +1,6 @@
 
 DmntV klausia:
--
+- Ar patinka sniegas?
 
 EgleT2 atsako:
 -
@@ -27,7 +27,7 @@ SimasJank klausia:
 -
 
 DmntV atsako:
--
+- Taip buvo vakar.
 
 EgleT2 klausia:
 -
