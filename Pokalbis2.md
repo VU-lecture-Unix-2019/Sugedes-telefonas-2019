@@ -12,7 +12,7 @@ Jaunius456 atsako:
 -aisku.
 
 KarolisGineitis klausia:
--
+-Ar lauke šilta ?
 
 PVards atsako:
 -
@@ -39,7 +39,7 @@ Jaunius456 klausia:
 - Kaip ziema?
 
 KarolisGineitis atsako:
--
+-Ne
 
 PVards klausia:
 -
