@@ -9,13 +9,13 @@ Evelinas24 klausia:
 -
 
 Jaunius456 atsako:
--aisku.
+- aisku.
 
 KarolisGineitis klausia:
--Ar lauke šilta ?
+- Ar lauke šilta ?
 
 PVards atsako:
--
+- Labai daug
 
 SauleS klausia:
 -
@@ -39,10 +39,10 @@ Jaunius456 klausia:
 - Kaip ziema?
 
 KarolisGineitis atsako:
--Ne
+- Ne
 
 PVards klausia:
--
+- Nuo kada reikia tokias uzduotis daryt?
 
 SauleS atsako:
 -
